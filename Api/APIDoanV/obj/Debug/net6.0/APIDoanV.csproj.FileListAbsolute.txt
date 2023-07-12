@@ -321,3 +321,13 @@ C:\Users\ASUS\Desktop\APIDoanV\APIDoanV\bin\Debug\net6.0\MailKit.dll
 C:\Users\ASUS\Desktop\APIDoanV\APIDoanV\bin\Debug\net6.0\NETCore.MailKit.dll
 C:\Users\ASUS\Desktop\APIDoanV\APIDoanV\bin\Debug\net6.0\SendGrid.dll
 C:\Users\ASUS\Desktop\APIDoanV\APIDoanV\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\ASUS\Desktop\HomestayBookingPJ\Api\APIDoanV\obj\Debug\net6.0\APIDoanV.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\HomestayBookingPJ\Api\APIDoanV\obj\Debug\net6.0\APIDoanV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\HomestayBookingPJ\Api\APIDoanV\obj\Debug\net6.0\APIDoanV.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\HomestayBookingPJ\Api\APIDoanV\obj\Debug\net6.0\APIDoanV.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\HomestayBookingPJ\Api\APIDoanV\obj\Debug\net6.0\APIDoanV.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\HomestayBookingPJ\Api\APIDoanV\obj\Debug\net6.0\APIDoanV.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\HomestayBookingPJ\Api\APIDoanV\obj\Debug\net6.0\APIDoanV.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\HomestayBookingPJ\Api\APIDoanV\obj\Debug\net6.0\APIDoanV.dll
+C:\Users\ASUS\Desktop\HomestayBookingPJ\Api\APIDoanV\obj\Debug\net6.0\refint\APIDoanV.dll
+C:\Users\ASUS\Desktop\HomestayBookingPJ\Api\APIDoanV\obj\Debug\net6.0\APIDoanV.pdb

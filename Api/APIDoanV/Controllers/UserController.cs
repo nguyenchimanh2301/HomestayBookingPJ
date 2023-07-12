@@ -2,7 +2,6 @@
 using Microsoft.AspNetCore.Authorization;
 using APIDoanV.Services;
 using APIDoanV.Models;
-using APIDoanV.Model;
 
 namespace APIDoanV.Controllers
 {

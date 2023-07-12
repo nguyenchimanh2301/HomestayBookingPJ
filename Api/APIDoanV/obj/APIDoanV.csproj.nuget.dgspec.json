@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\APIDoanV\\APIDoanV\\APIDoanV.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\HomestayBookingPJ\\Api\\APIDoanV\\APIDoanV.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\APIDoanV\\APIDoanV\\APIDoanV.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\HomestayBookingPJ\\Api\\APIDoanV\\APIDoanV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\APIDoanV\\APIDoanV\\APIDoanV.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\HomestayBookingPJ\\Api\\APIDoanV\\APIDoanV.csproj",
         "projectName": "APIDoanV",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\APIDoanV\\APIDoanV\\APIDoanV.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\HomestayBookingPJ\\Api\\APIDoanV\\APIDoanV.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\APIDoanV\\APIDoanV\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\HomestayBookingPJ\\Api\\APIDoanV\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

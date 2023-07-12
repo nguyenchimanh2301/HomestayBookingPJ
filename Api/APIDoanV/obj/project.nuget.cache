@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nowzTf/EigveYMDmsSPQVUXW+XZ7DdTfLxeTWMdTCZypgY9VIxPl9GuBZwXUpmU2fIe7KZZWE7vwuaTrRrhQEg==",
+  "dgSpecHash": "La+Ei7avlm7ufQwcMqWTC5GSfpQbNwIUNQFpV2K86esnIVyOgX2/XUJmq0PjelZjPaVN8K2slCk3cUc33NQYYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\APIDoanV\\APIDoanV\\APIDoanV.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\HomestayBookingPJ\\Api\\APIDoanV\\APIDoanV.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
